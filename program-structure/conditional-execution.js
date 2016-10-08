@@ -12,7 +12,7 @@
 
 exports.hello = function (name) {
   if (!name) 
-    return "Hello,_World";
+    return "Hello,_World!";
 } else {
   return "Hello_" (name);
 }
